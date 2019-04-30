@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.2.0",
+  "version": "1.2.1",
   "name": "딸기우유",
   "theme": {
     "colors": {
@@ -13,7 +13,6 @@
       "tab_line": "#f06595",
       "tab_loading": "#faa2c1",
       "tab_selected": "#f8f9fa",
-
 
       "icons": "#495057",
       "icons_attention": "#faa2c1",
