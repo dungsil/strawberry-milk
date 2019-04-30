@@ -1,6 +1,6 @@
 <h1 align="center">🦊🍓🎨 Strawberry milk</h1>
 <div align="center">
-    <img src="./.media/firefox_sample.png" alt="" />
+    <img src="https://addons.cdn.mozilla.net/user-media/version-previews/full/1403/1403860.png" alt="" />
 </div>
 
 <div align="center">
