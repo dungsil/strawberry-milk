@@ -7,15 +7,13 @@
       "frame": "#FCC9D1",
       
       "tab_background_text": "#495057",
-      "tab_background_separator": "#dee2e6",
+      "tab_background_separator": "#d6336c",
 
       "tab_text": "#495057",
       "tab_line": "#f06595",
       "tab_loading": "#faa2c1",
       "tab_selected": "#f8f9fa",
 
-      "button_background_active": "#e9ecef",
-      "button_background_hover": "#e9ecef",
 
       "icons": "#495057",
       "icons_attention": "#faa2c1",
@@ -38,7 +36,7 @@
       "toolbar_field_border_focus": "#FCC9D1",
       "toolbar_field_highlight": "#faa2c1",
       "toolbar_field_separator": "#dee2e6",
-      "toolbar_top_separator": "#ced4da",
+      "toolbar_top_separator": "#fff0f6",
       "toolbar_vertical_separator": "#ced4da",
       "toolbar_bottom_separator": "#dee2e6"
     }
