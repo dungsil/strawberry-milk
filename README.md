@@ -1,9 +1,18 @@
-# Strawberry milk
-> Pink Theme like a strawberry milk
+<h1 align="center">🦊🍓🎨 Strawberry milk</h1>
+<div align="center">
+    <img src="./.media/firefox_sample.png" alt="" />
+</div>
 
-[![Mozilla Add-on](https://img.shields.io/amo/v/theme-strawberry-milk.svg?style=flat-square)](https://addons.mozilla.org/ko/firefox/addon/theme-strawberry-milk/)
-[![Mozilla Add-on](https://img.shields.io/amo/users/theme-strawberry-milk.svg?style=flat-square)](https://addons.mozilla.org/ko/firefox/addon/theme-strawberry-milk/)
-[![Mozilla Add-on](https://img.shields.io/amo/stars/theme-strawberry-milk.svg?style=flat-square)](https://addons.mozilla.org/ko/firefox/addon/theme-strawberry-milk/reviews/)
-[![License: CC BY 3.0](https://img.shields.io/badge/license-CC_BY_3.0-informational.svg?style=flat-square)](./LICENSE)
-
-![Sample Image](./.media/firefox_sample.png)
+<div align="center">
+    <a href="https://addons.mozilla.org/ko/firefox/addon/theme-strawberry-milk/">
+        <img src="https://img.shields.io/amo/v/theme-strawberry-milk.svg?style=flat-square" alt="" />
+        <img src="https://img.shields.io/amo/users/theme-strawberry-milk.svg?style=flat-square" alt="" />
+    </a>
+    <a href="https://addons.mozilla.org/ko/firefox/addon/theme-strawberry-milk/reviews/">
+        <img src="https://img.shields.io/amo/stars/theme-strawberry-milk.svg?style=flat-square" alt="" />
+    </a>
+    <a href="./LICENSE">
+        <img src="https://img.shields.io/badge/license-CC_BY_3.0-informational.svg?style=flat-square" alt="License IS CC BY 3.0" />
+    </a>
+</div>
+<p align="center">Pink Theme like a strawberry milk</p>
