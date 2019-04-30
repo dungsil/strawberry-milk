@@ -5,13 +5,42 @@
   "theme": {
     "colors": {
       "frame": "#FCC9D1",
-      "tab_background_text": "#212529",
-      "icons": "#212529",
-      "icons_attention": "#faa2c1",
-      "popup_highlight": "#faa2c1",
+      
+      "tab_background_text": "#495057",
+      "tab_background_separator": "#dee2e6",
+
+      "tab_text": "#495057",
+      "tab_line": "#f06595",
+      "tab_loading": "#faa2c1",
       "tab_selected": "#f8f9fa",
+
+      "button_background_active": "#e9ecef",
+      "button_background_hover": "#e9ecef",
+
+      "icons": "#495057",
+      "icons_attention": "#faa2c1",
+
+      "popup": "#f8f9fa",
+      "popup_text": "#343a40",
+      "popup_border": "#dee2e6",
+      "popup_highlight": "#FCC9D1",
+      "popup_highlight_text": "#f8f9fa",
+      
+      "sidebar": "#f8f9fa",
+      "sidebar_border": "#dee2e6",
+      "sidebar_text": "#495057",
+      "sidebar_highlight": "#FCC9D1",
+      "sidebar_highlight_text": "#f8f9fa",
+      
       "toolbar": "#f8f9fa",
-      "toolbar_bottom_separator": "#e9ecef"
+      "toolbar_field": "#fff",
+      "toolbar_field_border": "#dee2e6",
+      "toolbar_field_border_focus": "#FCC9D1",
+      "toolbar_field_highlight": "#faa2c1",
+      "toolbar_field_separator": "#dee2e6",
+      "toolbar_top_separator": "#ced4da",
+      "toolbar_vertical_separator": "#ced4da",
+      "toolbar_bottom_separator": "#dee2e6"
     }
   }
 }
