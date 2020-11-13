@@ -1,8 +1,10 @@
-<h1 align="center">🦊🍓🎨 Strawberry milk</h1>
+<h1 align="center">🍓🥛🎨 Strawberry milk</h1>
+
+## 🦊 Firefox
 <div align="center">
     <img src="https://addons.cdn.mozilla.net/user-media/version-previews/full/1403/1403881.png" alt="" />
 </div>
-
+<br>
 <div align="center">
     <a href="https://addons.mozilla.org/ko/firefox/addon/theme-strawberry-milk/">
         <img src="https://img.shields.io/amo/v/theme-strawberry-milk.svg?style=flat-square" alt="" />
