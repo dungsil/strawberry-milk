@@ -1,7 +1,7 @@
 <h1 align="center">🍓🥛🎨 Strawberry milk</h1>
 <p align="center">Pink theme like a strawberry milk</p>
 
-## 🦊 Firefox
+## 🦊🍓 Firefox
 <div align="center">
     <img src="https://addons.cdn.mozilla.net/user-media/version-previews/full/1403/1403881.png" alt="" />
 </div>
@@ -18,3 +18,6 @@
         <img src="https://img.shields.io/badge/license-CC_BY_3.0-informational.svg?style=flat-square" alt="License IS CC BY 3.0" />
     </a>
 </div>
+
+## 🍫🍓 Kakao talk
+🚧 Soon !
