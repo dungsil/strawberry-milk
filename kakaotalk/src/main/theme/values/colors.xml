@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 어피치 -->
+
+    <!-- Header : 메인탭 헤더 타이틀 -->
+    <color name="theme_header_color">#664242</color>                            <!--Default-->
+
+    <!-- Section Title : 섹션 헤더 타이틀 -->
+    <color name="theme_section_title_color">#F66C6C</color>                     <!--Default-->
+
+    <!-- Title : 이름 -->
+    <color name="theme_title_color">#664242</color>                             <!--Default-->
+    <color name="theme_title_pressed_color">#B06B6B</color>                     <!--Pressed-->
+
+    <!-- Paragraph : 라스트메세지 -->
+    <color name="theme_paragraph_color">#805959</color>                         <!--Default-->
+    <color name="theme_paragraph_pressed_color">#B06B6B</color>                 <!--Pressed-->
+
+    <!-- Description : 상태메세지 -->
+    <color name="theme_description_color">#805959</color>                       <!--Default-->
+    <color name="theme_description_pressed_color">#B06B6B</color>               <!--Pressed-->
+
+    <!-- Feature : 서비스/피처별 컬러 -->
+
+    <!-- Primary : 멜론/선물하기 등 버튼 텍스트 -->
+    <color name="theme_feature_primary_color">#805959</color>                   <!--Default-->
+    <color name="theme_feature_primary_pressed_color">#B06B6B</color>           <!--Pressed-->
+
+    <!-- Services : Browse 3탭 -->
+    <color name="theme_feature_browse_tab_color">#D49B9B</color>                <!--Default-->
+    <color name="theme_feature_browse_tab_focused_color">#664242</color>        <!--Focused-->
+
+
+    <!-- Background -->
+    <!-- 기본 -->
+    <color name="theme_background_color">#FFDEDE</color>
+    <!-- 채팅방 -->
+    <color name="theme_chatroom_background_color">#FFDEDE</color>
+    <!-- 잠금화면 -->
+    <color name="theme_passcode_background_color">#FCC5C5</color>
+
+
+    <!-- Cell Color -->
+
+    <!-- Header : 메인탭 헤더 타이틀 셀 -->
+    <color name="theme_header_cell_color">#FFDEDE</color>
+
+    <!-- Body : 기본리스트 & 콘텐츠영역 셀 -->
+    <color name="theme_body_cell_color">#00FFDEDE</color>
+    <color name="theme_body_cell_pressed_color">#FFB3B3</color>
+    <color name="theme_body_cell_border_color">#26664242</color>
+
+    <!-- Body Secondary : 발견 & 더보기 콘텐츠 영역 셀 -->
+    <color name="theme_body_secondary_cell_color">#FFE3E3</color>
+
+    <!-- Tab : 메인탭 탭바 -->
+    <color name="theme_maintab_cell_color">#00FFFFFF</color>
+
+
+    <!-- Elements Color -->
+
+    <!-- Direct Share BG -->
+    <color name="theme_direct_share_color">#664242</color>
+    <color name="theme_direct_share_button_color">#E87D7D</color>
+    <color name="theme_direct_share_background_color">#FFF2F2</color>
+
+    <!-- Notification Popup/Toast -->
+    <color name="theme_notification_color">#664242</color>
+    <color name="theme_notification_background_color">#FFD4D4</color>
+    <color name="theme_notification_background_pressed_color">#FFB3B3</color>
+
+    <!-- Passcode -->
+    <color name="theme_passcode_color">#664242</color>
+
+    <color name="theme_passcode_keypad_color">#664242</color>
+    <color name="theme_passcode_keypad_pressed_color">#CCB8B8</color>
+    <color name="theme_passcode_keypad_background_color">#FFF2F2</color>
+    <color name="theme_passcode_keypad_pressed_background_color">#99FFDEDE</color>
+
+    <color name="theme_passcode_pattern_line_color">#FCC5C5</color>
+
+
+    <!-- Chatroom -->
+
+    <!-- Chat Bubble -->
+
+    <!-- Me -->
+    <color name="theme_chatroom_bubble_me_color">#FFFFFF</color>
+
+    <!-- You -->
+    <color name="theme_chatroom_bubble_you_color">#4D4D4D</color>
+
+    <!-- Chat Unread Count -->
+    <color name="theme_chatroom_unread_count_color">#FF7F7F</color>
+
+    <!-- Input Bar -->
+    <color name="theme_chatroom_input_bar_color">#000000</color>
+    <color name="theme_chatroom_input_bar_background_color">#FFFFFF</color>
+    <color name="theme_chatroom_input_bar_menu_icon_color">#F58E8E</color>
+    <color name="theme_chatroom_input_bar_send_button_color">#F58E8E</color>
+    <color name="theme_chatroom_input_bar_send_icon_color">#FFFFFF</color>
+
+</resources>

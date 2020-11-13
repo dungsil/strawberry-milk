@@ -1,0 +1,36 @@
+buildscript {
+    repositories {
+        jcenter()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.4'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        google()
+    }
+}
+
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.2"
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 28
+
+        versionName "1.0.0"
+        versionCode 100
+        applicationId "com.kakao.talk.theme.template"
+
+        sourceSets {
+            main.res.srcDirs += 'src/main/theme'
+            main.res.srcDirs += 'src/main/theme-adv'
+        }
+    }
+}
